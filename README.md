@@ -24,5 +24,3 @@ project/
 │ └── charts.py # Auto-generates Plotly charts from query results
 ├── requirements.txt # Python dependencies
 └── .gitignore # Ignores venv, DB, logs, Excel, etc.
-Output:
-<img width="748" height="390" alt="image" src="https://github.com/user-attachments/assets/18aa06e7-460e-4ae7-b585-6b6112a54004" />
