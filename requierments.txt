@@ -1,0 +1,13 @@
+streamlit
+pandas
+sqlalchemy
+openpyxl
+langchain
+ollama
+sqlparse
+langchain-community
+sql_metadata
+streamlit-chat
+google-generativeai
+langchain-google-genai
+plotly
