@@ -10,7 +10,7 @@ import numpy as np
 import os
 
 # Set your Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "your_gemini_api_key_here"
+#os.environ["GOOGLE_API_KEY"] = "your_gemini_api_key_here"
 
 def is_money_related(question: str) -> bool:
     money_keywords = [
